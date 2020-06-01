@@ -763,3 +763,22 @@ input:focus {
 	font-size: 14px;
 	color: #555;
 }
+
+/*404 */
+.not-found {
+	text-align: center;
+	width: 500px;
+	margin: 100px auto 0px;
+}
+
+.not-found h1 {
+	font-size: 100px;
+	font-family: h-b;
+	font-weight: bold;
+}
+
+.not-found h3 {
+	font-size: 40px;
+	font-family: h-b;
+	font-weight: bold;
+}
