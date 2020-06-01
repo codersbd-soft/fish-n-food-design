@@ -124,7 +124,7 @@ input:focus {
 	color: #666;
 	font-family: h-b;
 	font-size: 18px;
-	padding: 20px 20px 5px 20px;
+	padding: 20px 20px 5px 20px; 
 	display: block;
 }
 
@@ -572,3 +572,45 @@ input:focus {
 }
 
 
+ /*LOGIN & REG */
+.login-register {
+	
+}
+
+.login-register:after {
+  	content:'';
+  	display: block;
+  	clear: both;
+}
+
+.login-register .left-cont{
+ 	background-color: #f17322;
+ 	width: 60%;
+ 	height: 100vh;
+ 	float: left;
+}
+
+
+.login-register .right-cont{
+ 	background-color: #eee;
+ 	width: 40%;
+ 	height: 100vh;
+ 	float: left;
+}
+
+
+.auth-form {
+	margin: 100px 50px 0px 50px;
+	padding: 30px;
+	font-family: h-b;
+}
+
+.auth-form input {
+	border-radius: 0px;
+	border: 1px solid #f17322;
+	padding: 10px;
+}
+
+.auth-form input[type="submit"] {
+	background-color: #f17322;
+}
