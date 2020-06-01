@@ -108,6 +108,30 @@ input:focus {
 }
 
 
+/*MENU */
+.mein-menu {
+	border-top: 1px solid #eeeeee;
+}
+.main-menu-list ul {
+	text-align: center;
+
+}
+
+.main-menu-list ul li {
+	display: inline-block;
+}
+.main-menu-list ul li a {
+	color: #666;
+	font-family: h-b;
+	font-size: 18px;
+	padding: 20px 20px 5px 20px;
+	display: block;
+}
+
+.main-menu-list ul li a:hover {
+	color: #f17322;
+}
+
 /*Main header */
 .main-header {
 	padding: 15px 0px;
