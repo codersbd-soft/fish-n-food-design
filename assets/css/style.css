@@ -782,3 +782,31 @@ input:focus {
 	font-family: h-b;
 	font-weight: bold;
 }
+
+/* Cart */
+
+.cart {
+	font-family: h-b;
+}
+
+.cart .cart-items table input{
+	padding: 10px;
+	width: 60px;
+	font-family: h-b;
+}
+
+.cart .cart-items table tr td{
+	vertical-align: middle;
+	font-family: h-b;
+}
+
+.cart-note h3 {
+	font-size: 18px;
+	font-family: h-b;
+}
+
+.cart-note h4 {
+	font-size: 16px;
+	font-family: h-b;
+	margin: 5px 0px;
+}
