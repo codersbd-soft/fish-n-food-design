@@ -752,6 +752,11 @@ input:focus {
 	float: left;
  }
 
+.sidebar .blog-search .category ul li {
+	padding: 3px 0px;
+	border-bottom: 1px dotted #ccc;
+}
+
 .sidebar .blog-search .category ul li a{
 	color: #333;
 	font-family: h-l;
