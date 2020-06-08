@@ -67,6 +67,14 @@
 
 		});
 		
+
+		// Product Modal 
+		$('.product-items .product-featured').click(function(){
+			
+			$('#p-modal').modal('show');
+
+			return false;
+		});
 		
 		
 
