@@ -824,3 +824,18 @@ input:focus {
 	border-radius: 0px;
 	border: 1px solid #666;
 }
+
+
+/*Cart */
+.ecommerce-user-items ul li a {
+	text-align: center;
+}
+.ecommerce-user-items ul li a i {
+	display: block;
+}
+
+.ecommerce-user-items ul li a  span {
+	font-size: 12px;
+	text-align: center;
+	display: block;
+}
