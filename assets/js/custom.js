@@ -59,7 +59,7 @@
 
 		// Site main banner 
 		$('#related-product').owlCarousel({
-			items : 4,
+			items : 5,
 			loop : true,
 			margin: 10,
 			autoplay: true
