@@ -852,3 +852,26 @@ input:focus {
 	font-family: h-b;
 	margin-top: 50px;
 }
+
+
+ /*Contact Us page Design */
+.contact-us .contact-us-details {
+	margin: 50px 0px;
+}
+
+.contact-us .contact-us-details h3 {
+	font-size: 26px;
+	font-family: h-b;
+}
+
+.contact-us .contact-us-details ul li {
+	font-size: 14px;
+	font-family: h-l;
+	padding: 5px;
+}
+
+
+.contact-us .contact-us-details ul li i {
+	width: 20px;
+	display: inline-block;
+}
