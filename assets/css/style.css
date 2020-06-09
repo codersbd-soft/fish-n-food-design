@@ -845,3 +845,10 @@ input:focus {
 	text-align: center;
 	display: block;
 }
+
+.all-products h2 {
+	text-align: center;
+	font-size: 34px;
+	font-family: h-b;
+	margin-top: 50px;
+}
