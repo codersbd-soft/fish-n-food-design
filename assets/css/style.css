@@ -57,6 +57,12 @@ li {
 	list-style: none;
 }
 
+
+.cart-btn {
+	background-color: #f17322;
+	border: 1px solid #f17322;
+}
+
 input:focus {
 	outline: none;
 	box-shadow: none;
@@ -268,7 +274,7 @@ input:focus {
 
 /* Best seller section */
 .best-seller {
-	padding: 50px 0px;
+	padding: 5px 0px;
 }
 
 
@@ -276,10 +282,10 @@ input:focus {
 	text-align: center;
 	font-size: 24px;
 	font-family: h-b;
-	line-height: 30px;
+	line-height: 26px;
 	margin: auto;
 	position: relative;
-	margin-bottom: 10px;
+	margin-top: 20px;
 }
 
 
@@ -524,7 +530,7 @@ input:focus {
 	font-family: h-b;
 	font-size: 30px;
 	text-transform: uppercase;
-	margin-top: 50px;
+	margin-top: 20px;
 }
 
 .single-product  .pricing h3{
